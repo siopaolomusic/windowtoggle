@@ -1,0 +1,15 @@
+{
+  "Author": "YourNameHere",
+  "Name": "Window Toggle",
+  "InternalName": "WindowToggle",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Adds /wtoggle, /wfull, and /wwin commands to switch the game window between windowed mode and borderless fullscreen.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Toggle FFXIV between windowed and borderless fullscreen with a chat command.",
+  "AcceptsFeedback": true
+}
