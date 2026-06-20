@@ -1,5 +1,5 @@
 {
-  "Author": "YourNameHere",
+  ["Author": "YourNameHere",
   "Name": "Window Toggle",
   "InternalName": "WindowToggle",
   "AssemblyVersion": "0.0.0.1",
@@ -11,5 +11,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Toggle FFXIV between windowed and borderless fullscreen with a chat command.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true]
+  "DownloadLinkInstall": "https://github.com/siopaolomusic/WindowToggle/raw/main/latest.zip"
 }
