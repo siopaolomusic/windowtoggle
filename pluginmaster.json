@@ -13,6 +13,6 @@
     "LoadPriority": 0,
     "Punchline": "Toggle FFXIV between windowed and borderless fullscreen with a chat command.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/siopaolomusic/WindowToggle/raw/main/latest.zip"
+    "DownloadLinkInstall": "https://github.com/siopaolomusic/windowtoggle/raw/main/latest.zip"
   }
 ]
